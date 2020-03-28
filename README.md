@@ -25,7 +25,7 @@ We would also like to stress the open nature of this project. Anybody with an id
 ![Data overview](https://i.imgur.com/eW7F7YU.jpg)
 
 We collect:
-1. Heart rate variability measurements. They can be taken with any Bluetooth-enabled heart rate monitor or with a smartphone camera that has a reasonably high resolution. A study of smartphone PPG signal processing quality; Our study comparison with Polar chest strap
+1. Heart rate variability measurements. They can be taken with any Bluetooth-enabled heart rate monitor or with a smartphone camera that has a reasonably high resolution. [A study of smartphone PPG signal processing quality](https://www.researchgate.net/publication/336327954_Smartphone_PPG_signal_processing_quality_assessment_and_impact_on_HRV_parameters); [Our study comparison with Polar chest strap]https://medium.com/welltory/camera-vs-polar-heart-rate-monitor-68902fb6a2d7
 2. Data from user-connected gadgets including Apple Watch, Fitbit and others that have integrations with Google Fit or Apple Health.
 3. Clinically validated physical and mental health assessments. A special assessment will be created specifically for this project, where people will add information about symptoms and test results.
 4. In the event the research community so requires, we can swiftly set up data collection from almost any app or gadget through our IFTTT integration: https://ifttt.com/welltory
