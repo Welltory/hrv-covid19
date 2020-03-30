@@ -8,7 +8,7 @@ Research participants diagnosed with COVID-19 will provide HRV readings from the
 
 Welltory will provide open data access to all qualified researchers. This data will include heart rate variability (HRV) measurements collected from COVID-19 participants via the Welltory app, and also data collected from supported gadgets, including Apple Watch, Fitbit, Garmin, and others that have integrations with Google Fit or Apple Health.
 
-If you have COVID-19 symptoms, please, [apply to the research](https://welltory.typeform.com/to/ah8rnl).
+If you have COVID-19 symptoms, please, [apply to participate in the research project](https://welltory.typeform.com/to/ah8rnl).
 
 # Research objective
 
