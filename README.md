@@ -96,7 +96,7 @@ Please consider this to be your contribution to science and all to of us fightin
 
 # Why participate as a researcher
 
-Whether you’re a research organization, a team of scientists or an individual data scientist, you can use data obtained from our participants for your research. You are free to use this dataset, which we are releasing under a Creative Commons license. We are planning to release daily data updates and will post an example in Jupyter Notebook. We will be thankful to you for publishing your findings and your contribution to science.
+Whether you’re a research organization, a team of scientists or an individual data scientist, you can use data obtained from our participants for your research. You are free to use this dataset, which we are releasing under a Creative Commons license. We are planning to release daily data updates. We will be thankful to you for publishing your findings and your contribution to science.
 
 # Obtaining data if you’re a researcher
 
