@@ -1,10 +1,10 @@
 # COVID-19 and Wearables Open Data Research
 
-We all share a concern about the rapid spread of COVID-19 around our planet. At this point, it’s unclear whether researchers will be able to come up with a vaccine or if many of us should prepare to build immunity by catching the disease and getting over it. In either scenario, we find it important to study how heart rate variability (HRV) can be used to diagnose COVID-19 and help determine a healthy individual’s ability to cope with the virus.
+We all share a concern about the rapid spread of COVID-19 around our planet. At this point, it’s unclear whether researchers will be able to come up with a vaccine or if many of us should prepare to build immunity by catching the disease and getting over it. In either scenario, we find it important to study how heart rate variability (HRV) can be used to monitor COVID-19 and help determine a healthy individual’s ability to cope with the virus.
 
 For this reason, we are launching an open research project aimed at identifying diagnostic patterns of coronavirus-inflicted disease progression. 
 
-Research participants diagnosed with COVID-19 will provide HRV readings from their phones using our HRV measurement technology. This research will, therefore, be done both remotely (crucial today) and globally, as we have over 1.5 million people using our app all over the world.
+Research participants diagnosed with COVID-19 will provide HRV readings from their phones using PPG measurement technology. This research will, therefore, be done both remotely (crucial today) and globally, as we have over 1.5 million people using our app all over the world.
 
 Welltory will provide open data access to all qualified researchers. This data will include heart rate variability (HRV) measurements collected from COVID-19 participants via the Welltory app, and also data collected from supported gadgets, including Apple Watch, Fitbit, Garmin, and others that have integrations with Google Fit or Apple Health.
 
@@ -34,7 +34,7 @@ We collect:
 
 **Here is a list of [supported data types datatypes](https://github.com/Welltory/hrv-covid19/blob/master/datatypes)**
 
-We hold heart rate variability measurements to be the single most important data type out of those listed above since it's a biomarker that can be tracked by anyone with a phone. It is also one of the most well-researched biomarkers, with over 47,000 [publications on Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Heart+rate+variability).
+We hold heart rate variability measurements to be the single most important data type out of those listed above since it's a biomarker that can be tracked by anyone with a phone. It is also one of the most well-researched biomarkers, with over 25,000 [publications on Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Heart+rate+variability).
 
 A lot of research confirms the connection between HRV and stress, fitness, chronic illnesses, and so on.
 
