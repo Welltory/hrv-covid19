@@ -1,62 +1,62 @@
 Scale,Description,Value,Meaning
-COVID_SYMPTOMS,How long the user has been experiencing symptoms,1,Less than 3 days
-COVID_SYMPTOMS,How long the user has been experiencing symptoms,2,3 to 6 days
-COVID_SYMPTOMS,How long the user has been experiencing symptoms,3,7 to 14 days
-COVID_SYMPTOMS,How long the user has been experiencing symptoms,4,More than 14 days
-COVID_COUGH,Symptom intensity: Coughing,1,User isn’t experiencing symptom
-COVID_COUGH,Symptom intensity: Coughing,2,Very mild
-COVID_COUGH,Symptom intensity: Coughing,3,Mild
-COVID_COUGH,Symptom intensity: Coughing,4,Moderate
-COVID_COUGH,Symptom intensity: Coughing,5,Severe
-COVID_COUGH,Symptom intensity: Coughing,6,Extremely severe
-COVID_FEVER,Symptom intensity: Fever,1,User isn’t experiencing symptom
-COVID_FEVER,Symptom intensity: Fever,2,Very mild
-COVID_FEVER,Symptom intensity: Fever,3,Mild
-COVID_FEVER,Symptom intensity: Fever,4,Moderate
-COVID_FEVER,Symptom intensity: Fever,5,Severe
-COVID_FEVER,Symptom intensity: Fever,6,Extremely severe
-COVID_BREATH,Symptom intensity: Shortness of breath,1,User isn’t experiencing symptom
-COVID_BREATH,Symptom intensity: Shortness of breath,2,Very mild
-COVID_BREATH,Symptom intensity: Shortness of breath,3,Mild
-COVID_BREATH,Symptom intensity: Shortness of breath,4,Moderate
-COVID_BREATH,Symptom intensity: Shortness of breath,5,Severe
-COVID_BREATH,Symptom intensity: Shortness of breath,6,Extremely severe
-COVID_FATIGUE,Symptom intensity: Fatigue,1,User isn’t experiencing symptom
-COVID_FATIGUE,Symptom intensity: Fatigue,2,Very mild
-COVID_FATIGUE,Symptom intensity: Fatigue,3,Mild
-COVID_FATIGUE,Symptom intensity: Fatigue,4,Moderate
-COVID_FATIGUE,Symptom intensity: Fatigue,5,Severe
-COVID_FATIGUE,Symptom intensity: Fatigue,6,Extremely severe
-COVID_PAIN,Symptom intensity: Pain or pressure in the chest,1,User isn’t experiencing symptom
-COVID_PAIN,Symptom intensity: Pain or pressure in the chest,2,Very mild
-COVID_PAIN,Symptom intensity: Pain or pressure in the chest,3,Mild
-COVID_PAIN,Symptom intensity: Pain or pressure in the chest,4,Moderate
-COVID_PAIN,Symptom intensity: Pain or pressure in the chest,5,Severe
-COVID_PAIN,Symptom intensity: Pain or pressure in the chest,6,Extremely severe
-COVID_CONFUSION,Symptom intensity: Confusion,1,User isn’t experiencing symptom
-COVID_CONFUSION,Symptom intensity: Confusion,2,Very mild
-COVID_CONFUSION,Symptom intensity: Confusion,3,Mild
-COVID_CONFUSION,Symptom intensity: Confusion,4,Moderate
-COVID_CONFUSION,Symptom intensity: Confusion,5,Severe
-COVID_CONFUSION,Symptom intensity: Confusion,6,Extremely severe
-COVID_TROUBLE,Symptom intensity: Trouble breathing,1,User isn’t experiencing symptom
-COVID_TROUBLE,Symptom intensity: Trouble breathing,2,Very mild
-COVID_TROUBLE,Symptom intensity: Trouble breathing,3,Mild
-COVID_TROUBLE,Symptom intensity: Trouble breathing,4,Moderate
-COVID_TROUBLE,Symptom intensity: Trouble breathing,5,Severe
-COVID_TROUBLE,Symptom intensity: Trouble breathing,6,Extremely severe
-COVID_BLUISH,Symptom intensity: Bluish face or lips,1,User isn’t experiencing symptom
-COVID_BLUISH,Symptom intensity: Bluish face or lips,2,Very mild
-COVID_BLUISH,Symptom intensity: Bluish face or lips,3,Mild
-COVID_BLUISH,Symptom intensity: Bluish face or lips,4,Moderate
-COVID_BLUISH,Symptom intensity: Bluish face or lips,5,Severe
-COVID_BLUISH,Symptom intensity: Bluish face or lips,6,Extremely severe
-COVID_OVERALL,Overall state,1,User isn’t experiencing symptom
-COVID_OVERALL,Overall state,2,Very mild
-COVID_OVERALL,Overall state,3,Mild
-COVID_OVERALL,Overall state,4,Moderate
-COVID_OVERALL,Overall state,5,Severe
-COVID_OVERALL,Overall state,6,Extremely severe
+S_COVID_SYMPTOMS,How long the user has been experiencing symptoms,1,Less than 3 days
+S_COVID_SYMPTOMS,How long the user has been experiencing symptoms,2,3 to 6 days
+S_COVID_SYMPTOMS,How long the user has been experiencing symptoms,3,7 to 14 days
+S_COVID_SYMPTOMS,How long the user has been experiencing symptoms,4,More than 14 days
+S_COVID_COUGH,Symptom intensity: Coughing,1,User isn’t experiencing symptom
+S_COVID_COUGH,Symptom intensity: Coughing,2,Very mild
+S_COVID_COUGH,Symptom intensity: Coughing,3,Mild
+S_COVID_COUGH,Symptom intensity: Coughing,4,Moderate
+S_COVID_COUGH,Symptom intensity: Coughing,5,Severe
+S_COVID_COUGH,Symptom intensity: Coughing,6,Extremely severe
+S_COVID_FEVER,Symptom intensity: Fever,1,User isn’t experiencing symptom
+S_COVID_FEVER,Symptom intensity: Fever,2,Very mild
+S_COVID_FEVER,Symptom intensity: Fever,3,Mild
+S_COVID_FEVER,Symptom intensity: Fever,4,Moderate
+S_COVID_FEVER,Symptom intensity: Fever,5,Severe
+S_COVID_FEVER,Symptom intensity: Fever,6,Extremely severe
+S_COVID_BREATH,Symptom intensity: Shortness of breath,1,User isn’t experiencing symptom
+S_COVID_BREATH,Symptom intensity: Shortness of breath,2,Very mild
+S_COVID_BREATH,Symptom intensity: Shortness of breath,3,Mild
+S_COVID_BREATH,Symptom intensity: Shortness of breath,4,Moderate
+S_COVID_BREATH,Symptom intensity: Shortness of breath,5,Severe
+S_COVID_BREATH,Symptom intensity: Shortness of breath,6,Extremely severe
+S_COVID_FATIGUE,Symptom intensity: Fatigue,1,User isn’t experiencing symptom
+S_COVID_FATIGUE,Symptom intensity: Fatigue,2,Very mild
+S_COVID_FATIGUE,Symptom intensity: Fatigue,3,Mild
+S_COVID_FATIGUE,Symptom intensity: Fatigue,4,Moderate
+S_COVID_FATIGUE,Symptom intensity: Fatigue,5,Severe
+S_COVID_FATIGUE,Symptom intensity: Fatigue,6,Extremely severe
+S_COVID_PAIN,Symptom intensity: Pain or pressure in the chest,1,User isn’t experiencing symptom
+S_COVID_PAIN,Symptom intensity: Pain or pressure in the chest,2,Very mild
+S_COVID_PAIN,Symptom intensity: Pain or pressure in the chest,3,Mild
+S_COVID_PAIN,Symptom intensity: Pain or pressure in the chest,4,Moderate
+S_COVID_PAIN,Symptom intensity: Pain or pressure in the chest,5,Severe
+S_COVID_PAIN,Symptom intensity: Pain or pressure in the chest,6,Extremely severe
+S_COVID_CONFUSION,Symptom intensity: Confusion,1,User isn’t experiencing symptom
+S_COVID_CONFUSION,Symptom intensity: Confusion,2,Very mild
+S_COVID_CONFUSION,Symptom intensity: Confusion,3,Mild
+S_COVID_CONFUSION,Symptom intensity: Confusion,4,Moderate
+S_COVID_CONFUSION,Symptom intensity: Confusion,5,Severe
+S_COVID_CONFUSION,Symptom intensity: Confusion,6,Extremely severe
+S_COVID_TROUBLE,Symptom intensity: Trouble breathing,1,User isn’t experiencing symptom
+S_COVID_TROUBLE,Symptom intensity: Trouble breathing,2,Very mild
+S_COVID_TROUBLE,Symptom intensity: Trouble breathing,3,Mild
+S_COVID_TROUBLE,Symptom intensity: Trouble breathing,4,Moderate
+S_COVID_TROUBLE,Symptom intensity: Trouble breathing,5,Severe
+S_COVID_TROUBLE,Symptom intensity: Trouble breathing,6,Extremely severe
+S_COVID_BLUISH,Symptom intensity: Bluish face or lips,1,User isn’t experiencing symptom
+S_COVID_BLUISH,Symptom intensity: Bluish face or lips,2,Very mild
+S_COVID_BLUISH,Symptom intensity: Bluish face or lips,3,Mild
+S_COVID_BLUISH,Symptom intensity: Bluish face or lips,4,Moderate
+S_COVID_BLUISH,Symptom intensity: Bluish face or lips,5,Severe
+S_COVID_BLUISH,Symptom intensity: Bluish face or lips,6,Extremely severe
+S_COVID_OVERALL,Overall state,1,User isn’t experiencing symptom
+S_COVID_OVERALL,Overall state,2,Very mild
+S_COVID_OVERALL,Overall state,3,Mild
+S_COVID_OVERALL,Overall state,4,Moderate
+S_COVID_OVERALL,Overall state,5,Severe
+S_COVID_OVERALL,Overall state,6,Extremely severe
 S_CORONA,An assessment of the user’s symptoms which shows how likely it is that the user has coronavirus,1,User has some of the symptoms associated with coronavirus
 S_CORONA,An assessment of the user’s symptoms which shows how likely it is that the user has coronavirus,2,Symptoms are characteristic of coronavirus
 S_CORONA,An assessment of the user’s symptoms which shows how likely it is that the user has coronavirus,3,Symptoms are non-specific
