@@ -14,7 +14,7 @@ Contains general information about users (participants)
 | 4   | country    | Country                    |           |
 | 5   | height     | Height                     | cm        |
 | 6   | weight     | Weight                     | kg        |
-| 7   | symptoms_begin | The onset date of the symptoms of the disease. The format is MM/DD/YYYY. |    |
+| 7   | symptoms_onset | The onset date of the symptoms of the disease. The format is MM/DD/YYYY. |    |
 
 **data/hrv_measurements.csv**
 
