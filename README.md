@@ -1,17 +1,3 @@
-# We regret to inform you that we’ve put our study on hold because our app has been removed from Google Play.
-
-Today, on May 5, we received a notification that our app has been removed from Google Play, and our developer account has been suspended.
-
-The reason behind this suspension is our mention of COVID-19 inside the Welltory app’s questionnaire on viral symptoms.
-
-![Welltory account suspended](https://i.imgur.com/ecyYkDJ.jpg)
-
-We’ve already removed this survey and all mentions of COVID-19 in our app’s content and are trying to resolve the issue with Google Play.
-
-Our team is crushed, as the sole motivation behind our open study was to help researchers from all over the world study disease progression for COVID-19. We have never used COVID-19 to advertise, sell, or promote our app in any way and have never intended to do so.
-
-You can help us restore our app in Google Play faster — [tweet @GooglePlay](https://twitter.com/GooglePlay) and ask them to give us the opportunity to release an updated version of Welltory as soon as possible.
-
 # COVID-19 and Wearables Open Data Research
 
 We all share a concern about the rapid spread of COVID-19 around our planet. At this point, it’s unclear whether researchers will be able to come up with a vaccine or if many of us should prepare to build immunity by catching the disease and getting over it. In either scenario, we find it important to study how heart rate variability (HRV) can be used to monitor COVID-19 and help determine how individuals are able to cope with the virus.
