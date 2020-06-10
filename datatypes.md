@@ -91,7 +91,7 @@ Contains data collected from supported gadgets and aggregated by day
 | 7   | body\_temperature\_avg              | Body temperature                                                                                                                 | °C               |
 | 8   | stand\_hours\_total                 | Hours spend standing                                                                                                             | hours            |
 | 9   | steps\_count                        | Steps                                                                                                                            | steps            |
-| 10  | distance                            | Walking & running distance                                                                                                       | kilometers       |
+| 10  | distance                            | Walking & running distance                                                                                                       | meters           |
 | 11  | steps\_speed                        | Steps cadence — number of steps per minute.                                                                                      | steps per minute |
 | 12  | total\_number\_of\_flights\_climbed | Flights climbed                                                                                                                  | flights          |
 | 13  | active\_calories\_burned            | Active kcal — how many calories you burned as a result of activity.                                                              | kilocalories     |
