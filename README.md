@@ -29,6 +29,10 @@ Based on collected data, a study was created by a group of scientists from India
 
 <a href="url"><img src="https://www.mdpi.com/sensors/sensors-20-07068/article_deploy/html/images/sensors-20-07068-g002.png" alt="The architecture of the proposed framework" align="center" height="314" width="622" ></a>
 
+Another group of researchers from Portugal, United Arab Emirates, and Palestine used this dataset in the study [Wearable Devices, Smartphones, and Interpretable Artificial Intelligence in Combating COVID-19](https://www.mdpi.com/1424-8220/21/24/8424/htm)
+
+<a href="url"><img src="https://www.mdpi.com/sensors/sensors-21-08424/article_deploy/html/images/sensors-21-08424-g003.png" alt="The architecture of the proposed framework" align="center"></a>
+
 The Welltory team also published research: [Heart Rate Variability as a Prospective Predictor of Early COVID-19 Symptoms](https://www.medrxiv.org/content/10.1101/2021.07.02.21259891v1).
 
 <a href="url"><img src="https://www.medrxiv.org/content/medrxiv/early/2021/07/05/2021.07.02.21259891/F2.large.jpg" alt="Welltory Heart Rate Variability as a Prospective Predictor of Early COVID-19 Symptoms" align="center" height="450" width="640" ></a>
