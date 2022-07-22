@@ -29,6 +29,10 @@ Based on collected data, a study was created by a group of scientists from India
 
 <a href="url"><img src="https://www.mdpi.com/sensors/sensors-20-07068/article_deploy/html/images/sensors-20-07068-g002.png" alt="The architecture of the proposed framework" align="center" height="314" width="622" ></a>
 
+One more research group from The George Washington University (Washington, DC, United States) and Meharry Medical College (Nashville, TN, United States) used this dataset in the study [When Patients Recover From COVID-19: Data-Driven Insights From Wearable Technologies](https://www.frontiersin.org/articles/10.3389/fdata.2022.801998/full)
+
+<a href="url"><img src="https://www.frontiersin.org/files/Articles/801998/fdata-05-801998-HTML-r1/image_m/fdata-05-801998-g001.jpg" alt="Welltory Dataset - Distribution of four covid-19 disease stages" align="center"></a>
+
 Another group of researchers from Portugal, United Arab Emirates, and Palestine used this dataset in the study [Wearable Devices, Smartphones, and Interpretable Artificial Intelligence in Combating COVID-19](https://www.mdpi.com/1424-8220/21/24/8424/htm)
 
 <a href="url"><img src="https://www.mdpi.com/sensors/sensors-21-08424/article_deploy/html/images/sensors-21-08424-g003.png" alt="The architecture of the proposed framework" align="center"></a>
